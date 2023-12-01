@@ -1,0 +1,1 @@
+let pal=promt("enter the ")
